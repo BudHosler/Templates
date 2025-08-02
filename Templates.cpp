@@ -20,6 +20,9 @@ int main() {
 	cout << half(a) << endl;
 	cout << half(b) << endl;
 	cout << half(c) << endl;
+
+	system("pause");
+	return 0;
 }
 
 template<typename T>
